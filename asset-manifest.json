@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ad9c4cbc.chunk.css",
-    "main.js": "/portfolio/static/js/main.fb4a3b91.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fb4a3b91.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.754d8aeb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.754d8aeb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5cfc88e8.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5cfc88e8.js.map",
     "static/js/2.c1b22cca.chunk.js": "/portfolio/static/js/2.c1b22cca.chunk.js",
@@ -13,13 +13,13 @@
     "static/css/main.ad9c4cbc.chunk.css.map": "/portfolio/static/css/main.ad9c4cbc.chunk.css.map",
     "static/js/2.c1b22cca.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c1b22cca.chunk.js.LICENSE.txt",
     "static/media/fatih.5708673d.jpeg": "/portfolio/static/media/fatih.5708673d.jpeg",
-    "static/media/fatihdurmaz.c51e70ca.pdf": "/portfolio/static/media/fatihdurmaz.c51e70ca.pdf",
+    "static/media/fatihdurmaz.40363b65.pdf": "/portfolio/static/media/fatihdurmaz.40363b65.pdf",
     "static/media/gmail.a2f2146f.png": "/portfolio/static/media/gmail.a2f2146f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5cfc88e8.js",
     "static/js/2.c1b22cca.chunk.js",
     "static/css/main.ad9c4cbc.chunk.css",
-    "static/js/main.fb4a3b91.chunk.js"
+    "static/js/main.754d8aeb.chunk.js"
   ]
 }
